@@ -1,1 +1,1 @@
-Testing StageRealistic Human-in-the-Loop Stress TestingClassification: DetectiveFailure Addressed: Corrects flawed safety assumptions that expected pilots to diagnose and counter runaway trim within an unrealistic three-second window. Testing validates failure recovery against high-stress, multi-second pilot reaction delays
+
